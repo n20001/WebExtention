@@ -7,6 +7,6 @@
 - [chapter05](chapter05/ch05-markuptag2.html)「リンク、画像、コメント、特殊文字」
 - [chapter06](chapter06/index.html)「ページにCSSを適用する」
 - [chapter07](chapter07/ch07-fontsytle.html)「テキストの装飾」
-- [chapter08](chapter08/c05-03-b.html)「リンクの設定と画像の表示」
+- [chapter08](chapter08/ch08-linkimg.html)「リンクの設定と画像の表示」
 - [chapter09](chapter09/ch09-boxcss.html)「ボックスと情報の整理」
 - [chapter10](chapter10/ch10-table.html)「テーブル」
